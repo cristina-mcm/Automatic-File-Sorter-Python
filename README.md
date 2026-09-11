@@ -1,4 +1,4 @@
-# Automatic-File-Sorter in File Explorer
+# Automatic File Sorter in File Explorer
 
 A Python program that automatically organizes documents, media, and PDF files into separate folders based on file type.
 
